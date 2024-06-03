@@ -34,4 +34,4 @@ The file data_all.xlsx contains all the data we have annotated, including images
 | `Pic_id`            |                The address of the picture to be identified                  |
 | `Text`            |                Text in the picture                  |
 | `MetaphorOccurrence`|           Metaphorical judgment (0: non-metaphorical; 1: Metaphor)          |
-| `SentimentCategories`|      Type of sentiment of the picture and text( 1: joy;2: anger;3: sad;4: fear;5: surprise;6: meutral)       |
+| `SentimentCategories`|      Type of sentiment of the picture and text( 1: joy; 2: anger; 3: sad; 4: fear; 5: surprise; 6: meutral)       |
