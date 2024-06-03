@@ -7,10 +7,11 @@ Our images and data can be downloaded at the following link [DataAll](www.kaggle
 ## Example Instance
 
 ## Annotation Guideline
-We provide annotators with annotation guidelines.The specific labeling steps are as follows:
+**We provide annotators with annotation guidelines.The specific labeling steps are as follows:**
 + Step 1: Observe the image and text to identify all the objects contained in the image and text.
 + Step 2: Determine whether there is a conflict or inconsistency between the identified objects that does not conform to common sense. If there is a conflict, label the image text pair as a metaphor, otherwise it is a non metaphor.
-The classification and explanation of sentiments are as follows：
+
+**The classification and explanation of sentiments are as follows：**
 + Joy: Joy includes feelings of joy, happiness, optimism, and varying degrees of joy, such as ecstasy and relaxation. It also includes love, sincere emotions towards people or things, positive recognition and friendly emotions, as well as trust, acceptance, and appreciation.
 + Anger: Angry emotions that arise when injustice or bad things occur, including irritability and anger.
 + Sorrow: The emotional state of sadness, usually used to describe the psychological state experienced when facing negative emotions such as loss and pain. This emotional state is usually characterized by feelings of depression and sadness.
