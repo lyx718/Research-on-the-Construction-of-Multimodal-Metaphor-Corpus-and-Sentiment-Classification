@@ -6,8 +6,9 @@ Our images and data can be downloaded at the following link [DataAll](https://ww
 
 ## Example Instance
 **The multimodal metaphor and sentiment classification example in our dataset is shown in the following figure：**
-.<div align='center'><img src='example/example.png' width="745" height="416"></div>
+.<div align='center'><img src='/example/example.png' width="745" height="416"></div>
 + Text in the picture:Ocean Its Paradise Not a garbage dump
+
 The turtle and garbage in the picture form a metaphor, with "turtle" appearing in the image mode and "garbage" appearing in both the image and text modes.The picture and text express sympathy for sea turtles and sadness about ocean pollution as a whole.
 
 
