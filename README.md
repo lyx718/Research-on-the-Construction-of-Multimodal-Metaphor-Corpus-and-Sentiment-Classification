@@ -6,7 +6,7 @@ Our images and data can be downloaded at the following link [DataAll](https://ww
 
 ## Example Instance
 **The multimodal metaphor and sentiment classification example in our dataset is shown in the following figure：**
-.<div align='center'><img src='/example/example.png' width="358" height="200"></div>
+.<div align='center'><img src='/example/example.png' width="537" height="300"></div>
 + Text in the picture: Ocean Its paradise Not a garbage dump
 + MetaphorOccurrence: Metaphor
 + SentimentCategories: Sad
